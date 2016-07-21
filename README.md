@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # A basic AngularJS boilerplate [![Build Status](https://travis-ci.org/gruberb/angular-boilerplate.svg?branch=master)](https://travis-ci.org/gruberb/angular-boilerplate) [![npm installs](https://img.shields.io/npm/dm/angular-karma-boilerplate.svg?style=flat)](https://github.com/gruberb/angular-boilerplate) [![Code Climate](https://codeclimate.com/github/gruberb/angular-boilerplate/badges/gpa.svg)](https://codeclimate.com/github/gruberb/angular-boilerplate)
 
 A basic template with (now updated to Angular 1.5.0)
@@ -41,3 +42,7 @@ To see the coverage report navigate to `coverage` folder created by grunt serve,
 `grunt compile` for creating a `bin` folder with one minified JavaScript file for production
 
 For compiling the langauge files you need to add them to list in Gruntfile config under jsonmin->locale->files
+=======
+# agoo
+Agoo 2.0
+>>>>>>> 1fdfb380cb7c67479899243d7e6658475b92310d
